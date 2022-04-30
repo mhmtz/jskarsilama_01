@@ -1,0 +1,23 @@
+body {
+  background: black;
+}
+
+.clock {  
+  color: #fff; 
+  letter-spacing: 7px;
+}
+
+.text1 {  
+  color: #e98208; 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {  
+  color: #e98208; 
+  letter-spacing: 7px; 
+}
+
+ img { 
+     width: 17%;
+}
